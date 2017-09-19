@@ -2,6 +2,7 @@
 * Based on Ubuntu 16.04, Apache2 and WordPress 4.7.5    
   or    
   Ubuntu 16.04, NGINX, PHP-FPM and WordPress4.7.5
+  testing
 * Uses git repo to pull and update WordPress source files    
     https://github.com/bartr/wordpressfiles/
 * SSL support with self-signed certificates (ignore the browser warning)    
